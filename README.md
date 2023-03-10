@@ -1,2 +1,2 @@
-# Bus Reservation
+# Bus Reservation System
 project using C++
